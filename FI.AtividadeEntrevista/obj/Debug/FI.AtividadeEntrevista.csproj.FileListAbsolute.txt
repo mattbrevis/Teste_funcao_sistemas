@@ -1,0 +1,12 @@
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\mathe\OneDrive\Desktop\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\mathe\OneDrive\Desktop\MyProjects\Teste\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
